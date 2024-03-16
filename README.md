@@ -9,7 +9,7 @@ Python, JavaScript/jQuery, HTML & CSS, Java, Power BI/Power Query M, SQL, Inform
 | National University of Singapore | B.Eng. (Hons) Computer Engineering | Aug 2016 &mdash; Jun 2020 |
 
 ## Projects (General Assembly)
-Four group projects and one individual capstone project was done during the Data Science Immersive course at General Assembly. With the exception of Projects 1 and 2, Streamlit was used to demonstrate the final models.
+Four group projects and one individual capstone project were completed during the Data Science Immersive course at General Assembly. With the exception of Projects 1 and 2, Streamlit was used to demonstrate the final models.
 
 ### Capstone Project: Donor Leads through Networks
  - Created a proof of concept using a social network recommender system that recommends new donor leads to charities

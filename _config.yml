@@ -2,5 +2,6 @@ title: Poon Wenzhe
 description: Data Science Portfolio
 #show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: GFM
+logo: assets/img/profile_circle.png
