@@ -2,6 +2,7 @@
 Python, JavaScript/jQuery, HTML & CSS, Java, Power BI/Power Query M, SQL, Informatica
 
 # Education
+
 | Organisation  | Course    |Date  |
 | :---          | :---      |---:  |
 | General Assembly | Data Science Immersive | Nov 2023 &mdash; Mar 2024 |
@@ -15,7 +16,7 @@ Four group projects and one individual capstone project was done during the Data
  - Data was obtained by scraping Ministry of Culture, Community and Youth (MCCY) [Charity Portal](https://www.charities.gov.sg/Pages/AdvanceSearch.aspx) to extract charity information and the people associated with each charity, who are then synthetically used as if they are existing donors
  - The social network recommender system uses concepts such as community detection, centrality, and distance to provide a calculated score on recommending donors
 
- ## Project 4: Hate Speech Detection
+## Project 4: Hate Speech Detection
 - This project explores creating a data science project with social impact
 - Dataset from [Kaggle](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset) containing hate speech, offensive language, and neither was used to build classification models
 - Long Short-Term Memory (LSTM) models were built and experiemented with GloVe word embeddings then evaluated for F1-score and accuracy
