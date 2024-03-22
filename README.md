@@ -17,7 +17,7 @@ Four group projects and one individual capstone project were completed during th
  - The social network recommender system uses concepts such as community detection, centrality, and distance to provide a calculated score on recommending donors
 
  ![Screenshot of capstone project demo](/assets/img/capstone-demo.png)
-_Provides a table of recommended donors with network visual with warmer colours indicating a higher recommendation score_
+_Provides a table of recommended donors with Pyvis network visual_
 
 ---
 
